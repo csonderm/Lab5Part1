@@ -1,0 +1,8 @@
+This is a lab description for Lab 5
+
+For part 1, we need to create a GitHub account and set up a file in the repository
+
+For Part 2, we need to create a Puzzle class in order to play the sudoku game using templating.
+Sudoku is a game where you have a  3 unit by 3 unit board with 3 by 3 spaces in each unit. Some spots are filled in with numbers and others are blank. The goal is to fill in each space such that eery row, unit, and column has only one instance of the numbers 1-9. Then we must create a driver program to read in sudoku and wordoku and create an unfinished board.
+
+For Part 3, we should make a program so that the user can actually interactively play the sudoku game
